@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/get_series",
+      "dest": "api/get_series.js"
+    }
+  ]
+}
